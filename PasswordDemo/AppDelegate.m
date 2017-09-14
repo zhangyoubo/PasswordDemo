@@ -23,6 +23,8 @@
     UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:rootVC];
     self.window.rootViewController = nav;
     
+    
+    
     return YES;
 }
 
