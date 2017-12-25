@@ -3,7 +3,7 @@
 //  PasswordDemo
 //
 //  Created by aDu on 2017/2/6.
-//  Copyright © 2017年 DuKaiShun. All rights reserved.
+//  Copyright © 2017年 zyb. All rights reserved.
 //
 
 #import "RootViewController.h"
@@ -20,10 +20,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"密码设置";
-    
-    
-    
-    
     
     self.view.backgroundColor = [UIColor colorWithRed:230 / 250.0 green:230 / 250.0 blue:230 / 250.0 alpha:1.0];
     self.navigationController.navigationBar.translucent = NO;
