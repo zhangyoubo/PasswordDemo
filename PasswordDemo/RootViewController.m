@@ -22,6 +22,9 @@
     self.title = @"密码设置";
     
     
+    
+    
+    
     self.view.backgroundColor = [UIColor colorWithRed:230 / 250.0 green:230 / 250.0 blue:230 / 250.0 alpha:1.0];
     self.navigationController.navigationBar.translucent = NO;
     
